@@ -1,0 +1,6 @@
+/data
+*.pdf
+save_csv.py
+.DS_Store
+__pycache__/
+.vscode/
